@@ -8,6 +8,7 @@ h1 {
 	font-size: 65px;
 	color: black;
 	top: 400px;
+	border: 5px solid red hide;
 }
 h2 {
 	color: #FF66CC;
