@@ -50,11 +50,13 @@ div {
   top: 500px; left: 900px; 
 }
 .decor {
+  display: block;
   height: 200px;
   width: auto;
   position: absolute; top: 0px; right: 0px;
   }
 .decor1 {
+  display: block;
   position: absolute; top: 0px; right: 200px;
 }  
 html {
